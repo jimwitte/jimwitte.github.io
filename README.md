@@ -1,1 +1,1 @@
-# web
+# Revised simplified website
